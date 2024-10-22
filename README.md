@@ -1,4 +1,6 @@
 ## Hi there 👋
+Achieved these badges in Hacktoberfest 2024 
+(https://holopin.me/nandini1071)](https://holopin.io/@nandini1071)
 
 <!--
 **Nandini1071/Nandini1071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
