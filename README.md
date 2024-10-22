@@ -2,7 +2,7 @@
 Achieved these badges in Hacktoberfest 2024 
 
 
-[![An image of @nandini1071's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nandini1071)]
+![An image of @nandini1071's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nandini1071)
 
 <!--
 **Nandini1071/Nandini1071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
