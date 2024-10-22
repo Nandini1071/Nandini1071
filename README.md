@@ -1,5 +1,5 @@
 ## Hi there 👋
-Achieved these badges in Hacktoberfest 2024 
+Achieved these badges in Hacktoberfest 2024 and successfully completed all the PR and got merged. 
 
 
 ![An image of @nandini1071's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nandini1071)
