@@ -6,7 +6,7 @@ Full Stack Developer
 
 I am full Stack Developer who loves react!
 
-*   🌍  I'm based in India
+*   🌍  I'm based in India.
 *   ✉️  You can contact me at [nandinisabharwal1071@gmail.com](mailto:nandinisabharwal1071@gmail.com)
 *   🧠  I'm MERN stack Developer.
 *   🤝  I'm open to collaborating on Projects.
