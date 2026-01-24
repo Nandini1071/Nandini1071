@@ -1,51 +1,110 @@
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30"> My name is Nandini Sabharwal
-=========================================================================================================================================
+Hi 👋 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">  
+I'm **Nandini Sabharwal**
+=====================================================================
 
-Full Stack Developer
---------------------
+### 🚀 Full Stack Developer | MERN | React Enthusiast
 
-I am full Stack Developer who loves react!
+I’m a **results-driven Full Stack Developer** with 2+ years of hands-on experience building **scalable, user-centric web applications** using the **MERN stack**.  
+I love crafting clean UIs with React and solving real-world problems with efficient backend systems.
 
-*   🌍  I'm based in India.
-*   ✉️  You can contact me at [nandinisabharwal1071@gmail.com](mailto:nandinisabharwal1071@gmail.com)
-*   🧠  I'm MERN stack Developer.
-*   🤝  I'm open to collaborating on Projects.
+---
 
-### Skills 
+### 🌍 About Me
+
+- 📍 Based in **India**
+- 🧠 Strong in **MERN Stack (MongoDB, Express, React, Node.js)**
+- ⚛️ Frontend-focused with deep React expertise
+- 🔐 Experience with **APIs, authentication, payment gateways**
+- 🎯 Preparing for **SDE-1 / Frontend Developer roles**
+- 🤝 Open to **collaborations & open-source contributions**
+
+📧 **Email:** [nandinisabharwal1071@gmail.com](mailto:nandinisabharwal1071@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+
+#### Backend
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+
+#### Languages & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
+
+---
+
+### 💡 What I Do Best
+
+- ⚛️ Build **high-performance React applications**
+- 🧩 Create **reusable, scalable UI components**
+- 🔗 Design & consume **REST APIs**
+- 🔐 Implement **authentication & authorization**
+- 💳 Integrate **payment gateways**
+- 🚀 Optimize performance & improve UX
+
+---
+
+### 📌 Featured Projects (Add Links)
+
+🔹 **Crypto Price Tracker**  
+React app using CoinGecko API with live price updates & charts
+
+🔹 **Dynamic Resume Builder**  
+React + Firebase app with analytics & customizable templates
+
+🔹 **Custom Shell in C++**  
+Built a Unix-like shell supporting piping, redirection & built-ins
+
+> 👉 Pin these repos on your GitHub profile for maximum impact
+
+---
+
+### 🏆 Achievements
+
+- 🟣 **Hacktoberfest 2024** – All PRs successfully merged  
+- 🏅 Active open-source contributor
+
+![Holopin](https://holopin.me/nandini1071)
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/Nandini1071">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandini1071&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Nandini1071">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandini1071&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-                    </p>
-                    
-  ### Socials
-  
-  
-  <p align="left">
-      <a href="https://www.github.com/Nandini1071" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-    </a>
-      <a href="https://www.linkedin.com/in/nandini-sabharwal-767b4b232/" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-    </a></p>
+<a href="https://www.github.com/Nandini1071" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/nandini-sabharwal-767b4b232/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />
+</a>
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Nandini1071"><img src="https://github-readme-stats.vercel.app/api?username=Nandini1071&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nandini1071's GitHub stats" /></a>
-
-<a href="http://www.github.com/Nandini1071"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandini1071&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-### Achievements
-
-Achieved these badges in Hacktoberfest 2024 and successfully completed all the PR and got merged. 
-
-
-![An image of @nandini1071's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nandini1071)
+✨ *Always learning, building, and improving — one commit at a time.*
