@@ -95,10 +95,6 @@ I love crafting clean UIs with React and solving real-world problems with effici
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandini1071&theme=tokyo-night&hide_border=true" />
 </a>
 
-<a href="https://github.com/Nandini1071">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini1071&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
 ---
 
 ## 🌐 Connect With Me
