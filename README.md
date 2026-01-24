@@ -1,4 +1,4 @@
-Hi 👋 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">  
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">  
 I'm **Nandini Sabharwal**
 =====================================================================
 
@@ -90,6 +90,11 @@ I love crafting clean UIs with React and solving real-world problems with effici
 <a href="https://github.com/Nandini1071">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandini1071&theme=tokyonight&hide_border=true" />
 </a>
+
+<a href="https://github.com/Nandini1071">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandini1071&theme=tokyo-night&hide_border=true" />
+</a>
+
 
 ---
 
