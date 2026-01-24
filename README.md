@@ -88,10 +88,6 @@ I love crafting clean UIs with React and solving real-world problems with effici
 </a>
 
 <a href="https://github.com/Nandini1071">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandini1071&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Nandini1071">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandini1071&theme=tokyo-night&hide_border=true" />
 </a>
 
