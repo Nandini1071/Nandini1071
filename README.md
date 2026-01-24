@@ -1,4 +1,4 @@
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">  
+Hi 👋 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30">  
 I'm **Nandini Sabharwal**
 =====================================================================
 
@@ -9,12 +9,13 @@ I love crafting clean UIs with React and solving real-world problems with effici
 
 ---
 
-### 🌍 About Me
+## 🌍 About Me
 
 - 📍 Based in **India**
 - 🧠 Strong in **MERN Stack (MongoDB, Express, React, Node.js)**
 - ⚛️ Frontend-focused with deep React expertise
 - 🔐 Experience with **APIs, authentication, payment gateways**
+- 🚀 Hands-on exposure to **CI/CD, DevOps & Platform tooling**
 - 🎯 Preparing for **SDE-1 / Frontend Developer roles**
 - 🤝 Open to **collaborations & open-source contributions**
 
@@ -22,23 +23,35 @@ I love crafting clean UIs with React and solving real-world problems with effici
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=radix-ui)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock)
 
-#### Backend
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+---
+
+### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
 
-#### Languages & Tools
+---
+
+### ⚙️ DevOps & Platform
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Harness](https://img.shields.io/badge/Harness%20CI%2FCD-00BFA5?style=flat)
+![Backstage](https://img.shields.io/badge/Backstage.io-9BF0E1?style=flat&logo=spotify)
+
+---
+
+### 🧩 Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
@@ -47,27 +60,28 @@ I love crafting clean UIs with React and solving real-world problems with effici
 
 ---
 
-### 💡 What I Do Best
+## 💡 What I Do Best
 
 - ⚛️ Build **high-performance React applications**
-- 🧩 Create **reusable, scalable UI components**
-- 🔗 Design & consume **REST APIs**
+- 🧩 Create **reusable & scalable UI components**
+- 🎞️ Add smooth, performant animations using **GSAP**
+- 🔗 Design & consume **RESTful APIs**
 - 🔐 Implement **authentication & authorization**
-- 💳 Integrate **payment gateways**
-- 🚀 Optimize performance & improve UX
+- 🚀 Optimize performance & enhance UX
+- ⚙️ Work with **CI/CD pipelines & containerized apps**
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 - 🟣 **Hacktoberfest 2024** – All PRs successfully merged  
-- 🏅 Active open-source contributor
+- 🏅 Active **open-source contributor**
 
-![Holopin](https://holopin.me/nandini1071)
+![Holopin Badges](https://holopin.me/nandini1071)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <a href="https://github.com/Nandini1071">
   <img src="https://github-readme-stats.vercel.app/api?username=Nandini1071&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -79,7 +93,7 @@ I love crafting clean UIs with React and solving real-world problems with effici
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.github.com/Nandini1071" target="_blank">
