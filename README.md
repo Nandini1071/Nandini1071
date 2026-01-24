@@ -58,21 +58,6 @@ I love crafting clean UIs with React and solving real-world problems with effici
 
 ---
 
-### 📌 Featured Projects (Add Links)
-
-🔹 **Crypto Price Tracker**  
-React app using CoinGecko API with live price updates & charts
-
-🔹 **Dynamic Resume Builder**  
-React + Firebase app with analytics & customizable templates
-
-🔹 **Custom Shell in C++**  
-Built a Unix-like shell supporting piping, redirection & built-ins
-
-> 👉 Pin these repos on your GitHub profile for maximum impact
-
----
-
 ### 🏆 Achievements
 
 - 🟣 **Hacktoberfest 2024** – All PRs successfully merged  
