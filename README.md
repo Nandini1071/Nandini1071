@@ -84,15 +84,6 @@ I love crafting clean UIs with React and solving real-world problems with effici
 ## 📊 GitHub Activity & Stats
 
 <a href="https://github.com/Nandini1071">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nandini1071&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Nandini1071">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nandini1071&theme=tokyonight" />
-</a>
-
-
-<a href="https://github.com/Nandini1071">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandini1071&theme=tokyo-night&hide_border=true" />
 </a>
 
